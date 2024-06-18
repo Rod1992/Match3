@@ -1,0 +1,16 @@
+{
+    "name": "GridUi",
+    "rootNamespace": "",
+    "references": [
+        "GUID:08e99956c4c8441aa8e9d22b999a6d5f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
